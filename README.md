@@ -1,11 +1,11 @@
-## Welcome! 👋
 ---
+## Welcome! 👋
 
 I'm currently organizing my projects and experiments. **Work in progress...** 🚧
 
----
-
 More updates coming soon!
+
+---
 
 <!--
 **Gacortor451/Gacortor451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
